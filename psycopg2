@@ -1,0 +1,6 @@
+###Command python setup.py egg_info failed with error code 1 in /tmp/pip_build/psycopg2
+###Storing debug log for failure in /home/.pip/pip.log
+
+```
+sudo apt-get install libpq-dev python-dev
+```
